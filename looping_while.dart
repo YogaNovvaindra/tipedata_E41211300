@@ -8,7 +8,7 @@ void main(List<String> args) {
   print("LOOPING KEDUA");
   int j = 20;
   while (j >= 0) {
-    print("$j - I Tak Mungkin");
+    print("$j - I will become a mobile developer");
     j -= 2;
   }
 }
